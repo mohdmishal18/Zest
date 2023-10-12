@@ -1,0 +1,260 @@
+body
+{
+    margin: 0;
+}
+.huge-image
+{
+    width: 100%;
+    height: 739.2px;
+    position: relative;
+}
+#header
+{
+    top: 0;
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+}
+#logo-zest
+{
+    width: 72px;
+    height: 61.2px;
+    margin: 30px 0 0 45px;
+    transition: 300ms;
+    cursor: pointer;
+}
+#logo-zest:hover
+{
+    transform: scale(1.15);
+}
+#bar
+{
+    height: 56.6px;
+    width: 43px;
+    margin-left: 87%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+.center-img
+{
+    height: 369.6px;
+    width: 391.55px;
+    position: absolute;
+    top: 14%;
+    left: 29.5%;
+}
+#img-text
+{
+    height: 192px;
+    width: 362.05px;
+    position: absolute;
+    top: 60%;
+    left: 3%;
+}
+.text1
+{
+    font-family: 'Young Serif', serif;
+    color: white;
+    margin-top: -15px;
+    font-size: 50.3px;
+}
+#but-div
+{
+    height: 50px;
+    width: 300px;
+    position: absolute;
+    top: 89%;
+    left: 3%;
+}
+#button1
+{
+    width: 300px;
+    color: white;
+    background-color: #001a6f;
+    padding: 16px;
+    font-family: Gotham, sans-serif;
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+#button1:hover
+{
+    background-color: #001352;
+}
+#center-site
+{
+    width: 100%;
+    height: 532.21px;
+    display: flex;
+}
+#text-site
+{
+    height: 532.21px;
+    width: 50%;
+    background-color: #fff;
+}
+#image-site
+{
+    height: 532.21px;
+    width: 50%;
+    background-color: #f1f1f182;
+}
+#collection
+{
+    height: 253.1px;
+    width: 669.6px;
+    margin-top: 18%;
+    margin-left: 6%;
+}
+#header1
+{
+    margin-top: 25%;
+    margin-left: 10.2%;
+    font-family: Gotham, sans-serif;
+    color: #001a6f;
+    font-size: 40px;
+}
+#para-1
+{
+    margin-top: -1%;
+    margin-left: 10.2%;
+    font-family: 'Jost', sans-serif;
+    color: #585858;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+#footer
+{
+    height: 585.92px;
+    width: 100%;
+    background-color: #ff8400;
+}
+#footerinfooter
+{
+    height: 312px;
+    width: 900px;
+    padding-top: 157.975px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+}
+.zestlogo
+{
+    height: 68.85px;
+    width: 81px;
+}
+#footer-middle
+{
+    width: 102.89px;
+    height: 172px;
+}
+#general
+{
+    font-family: Gotham, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin: 0;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+}
+ul
+{
+    list-style-type: none;
+}
+.navs
+{
+    line-height: 3;
+    color: white;
+    font-size: 14px;
+    margin-left: -35px;
+    margin-top: 10px;
+    font-family: 'Futura bt', sans-serif;
+    cursor: pointer;
+}
+.navs:hover
+{
+    text-decoration: underline 1px white;
+}
+#footer-right
+{
+    width: 250px;
+    height: 262px;
+}
+#contact
+{
+    font-family: Gotham, sans-serif;
+    font-size: 18px;
+    color: white;
+    margin: 0;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+}
+#termsofservice
+{
+    line-height: 3;
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: 'Futura bt', sans-serif;
+    padding-left: 4px;
+    cursor: pointer;
+}
+#termsofservice:hover
+{
+    text-decoration: underline 1px white;
+}
+#emailbox
+{
+    padding: 15px;
+    border: solid;
+    padding-right: 65px;
+    border-color: white;
+    outline: none;
+}
+::-webkit-input-placeholder
+{
+    color: #757575;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+}
+#comment
+{
+    outline: none;
+    border: white;
+    font-family: 'Lexend', sans-serif;
+    overflow-x: hidden;
+    resize: vertical;
+}
+#button2
+{
+    width: 250px;
+    color: white;
+    margin-top: 10px;
+    background-color: #001a6f;
+    padding: 16px;
+    font-family: Gotham, sans-serif;
+    letter-spacing: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+#button2:hover
+{
+    background-color: #001352;
+}
+#copyright
+{
+    font-family: Roboto, sans-serif;
+    color: rgba(175, 89, 0, 0.49);
+    text-align: center;
+    margin-left: 65%;
+    font-size: 14px;
+}
+#copyright-div
+{
+    width: 900px;
+    height: 20px;
+
+}
